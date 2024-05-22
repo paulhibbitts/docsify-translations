@@ -16,3 +16,5 @@ Für zusätzliche Informationen zur Verwendung beliebter Browser für die Sprach
 ## Mitmachen
 
 Interessiert an der Aktualisierung dieser zuvor verfügbaren Sprachübersetzung der Docsify-Dokumentation? Bitte treten Sie unserem Discord bei, https://discord.gg/docsify, und lassen Sie es uns im neuen #documentation-Kanal wissen, danke!
+
+Language translation credit: ChatGPT 4.0

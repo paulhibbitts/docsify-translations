@@ -16,3 +16,5 @@ Para obtener información adicional sobre el uso de navegadores populares para l
 ## Involúcrate
 
 ¿Interesado en actualizar esta traducción de idioma previamente disponible de la documentación de Docsify? Únete a nuestro Discord, https://discord.gg/docsify, y háznoslo saber en el nuevo canal #documentation, ¡gracias!
+
+Language translation credit: ChatGPT 4.0

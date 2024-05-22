@@ -16,3 +16,5 @@
 ## 参与其中
 
 有兴趣更新以前提供的 Docsify 文档翻译吗？请加入我们的 Discord，https://discord.gg/docsify，并在新的 #documentation 频道中告诉我们，谢谢！
+
+Language translation credit: ChatGPT 4.0

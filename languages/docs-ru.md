@@ -16,3 +16,5 @@
 ## Примите участие
 
 Заинтересованы в обновлении ранее доступного перевода документации Docsify? Присоединяйтесь к нашему Discord, https://discord.gg/docsify, и сообщите нам в новом канале #documentation, спасибо!
+
+Language translation credit: ChatGPT 4.0
