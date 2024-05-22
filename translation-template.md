@@ -4,7 +4,7 @@
 
 With the release of Docsify v5 it was identified that this available language translation was no longer up-to-date and correct, so it has been temporarily removed. 
 
-It is recommended that Brower language translation is used with the [English version of the Docsify.js.org documentation](https://docsify.js.org) in order to provide up-to-date and correct documentation in multiple languages.
+It is recommended that Brower language translation be used with the [English version of the Docsify.js.org documentation](https://docsify.js.org) in order to provide up-to-date and correct documentation in multiple languages.
 
 For additional information about using popular Browsers for language translation, please refer to the following links:
 
