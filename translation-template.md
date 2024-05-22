@@ -15,4 +15,4 @@ For additional information about using popular Browsers for language translation
 
 ## Get involved
 
-Interested in updating this previously available localized language Docsify documentation? Please join our Discord, https://discord.gg/docsify, and let us know in the new #documentation channel, thank you!
+Interested in updating this previously available language translation of Docsify documentation? Please join our Discord, https://discord.gg/docsify, and let us know in the new #documentation channel, thank you!
