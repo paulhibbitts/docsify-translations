@@ -2,6 +2,8 @@
 
 > A magical documentation site generator.
 
+> This language translation for Docsify is no longer available
+
 ## Multilanguage translations
 
 With the release of Docsify v5 it was identified that this available language translation was no longer up-to-date and correct, so it has been temporarily removed. 
