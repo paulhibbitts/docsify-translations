@@ -1,6 +1,6 @@
 ## docsify
 
-> A magical documentation site generator.
+> This language translation for Docsify is no longer available.
 
 ## Multilanguage translations
 
